@@ -3,10 +3,10 @@
 Synchronous FIFO design with depth of 8 bit. 
 - 4 different testcases used
 - 2 sequences for read and write
--  
+   
 
 EDA Playground link
-https://www.edaplayground.com/x/AQtt
+https://www.edaplayground.com/x/Q5Lp
 
 
 TESTBENCH ARCHITECTURE
